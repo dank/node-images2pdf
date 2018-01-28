@@ -1,0 +1,17 @@
+{
+  "name": "images2pdf",
+  "version": "1.0.0",
+  "description": "Package multiple images into a PDF Edit",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Dan Kyung <dan@kyung.ca>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github:dank/node-images2pdf"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "pdfkit": "^0.8.3"
+  }
+}
