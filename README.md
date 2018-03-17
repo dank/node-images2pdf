@@ -42,3 +42,5 @@ pdf.convert(['./images/img1.png', './images/img1.jpg', './images/img2.png', './i
   .catch(console.error);
 ```
 
+## License
+[MIT](/LICENSE)
